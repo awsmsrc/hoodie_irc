@@ -20,6 +20,7 @@
     "plugins": [
       "hoodie-plugin-appconfig",
       "hoodie-plugin-email",
+      "hoodie-plugin-irc",
       "hoodie-plugin-users"
     ]
   }
